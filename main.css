@@ -13,6 +13,21 @@ form button {
 }
 
 
+.title {
+    font-size: 1.5rem;
+}
+
+.title .h1_letter {
+    font-size: 1.1rem;
+}
+
+.title-footer {
+    font-size: 1rem;
+}
+
+.title-footer .p1_letter {
+    font-size: .7rem;
+}
 
 body,
 input,
@@ -28,6 +43,7 @@ header {
     background-color: #095256;
     color: #ecf0f1;
 }
+
 
 header h1,
 section h2 {
@@ -49,6 +65,7 @@ header nav li a {
     max-width: 1280px;
     width: 100%;
     margin: 0 auto;
+    
 }
 
 header .container, section .container {
